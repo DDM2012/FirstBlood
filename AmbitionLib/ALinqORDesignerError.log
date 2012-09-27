@@ -1,0 +1,32 @@
+Loading page 1
+Query Created: ((Project.Metadata['SupportedVSEditions'] LIKE '%10.0,IntegratedShell;%') OR (Project.Metadata['SupportedVSEditions'] LIKE '%10.0,Pro;%') OR (Project.Metadata['SupportedVSEditions'] LIKE '%10.0,Premium;%') OR (Project.Metadata['SupportedVSEditions'] LIKE '%10.0,Ultimate;%'))
+Cancelling pending extensions query
+Loading page 1
+Query Created: ((Project.Metadata['SupportedVSEditions'] LIKE '%10.0,IntegratedShell;%') OR (Project.Metadata['SupportedVSEditions'] LIKE '%10.0,Pro;%') OR (Project.Metadata['SupportedVSEditions'] LIKE '%10.0,Premium;%') OR (Project.Metadata['SupportedVSEditions'] LIKE '%10.0,Ultimate;%'))
+New Total Pages: 1
+TFS::Authenticate : Caught exception : Microsoft.TeamFoundation.TeamFoundationServerUnauthorizedException: TF30063: 您没有访问 10.41.21.67 的权限。
+   在 Microsoft.TeamFoundation.Client.TeamFoundationSoapProxy.ThrowIfUnauthorized(HttpWebResponse response)
+   在 Microsoft.TeamFoundation.Client.TeamFoundationSoapProxy.GetWebResponse(WebRequest request)
+   在 System.Web.Services.Protocols.SoapHttpClientProtocol.Invoke(String methodName, Object[] parameters)
+   在 Microsoft.TeamFoundation.Proxy.BisRegistrationServiceProxyWsdl.GetRegistrationEntries(String toolId)
+   在 Microsoft.TeamFoundation.Proxy.BisRegistrationProxy.GetRegistrationEntries(String toolId)
+   在 Microsoft.TeamFoundation.Proxy.BisRegistrationService.RefreshMemoryCache()
+   在 Microsoft.TeamFoundation.Proxy.BisRegistrationService.RefreshDiskAndMemoryCacheIfNeeded(Boolean direct)
+   在 Microsoft.TeamFoundation.Proxy.BisRegistrationService.RefreshCachesIfNeeded(Boolean direct)
+   在 Microsoft.TeamFoundation.Proxy.BisRegistrationService.GetRegistrationEntries(String toolId)
+   在 Microsoft.TeamFoundation.Framework.Client.PreFrameworkServerDataProvider.FindServiceLocation(String serviceType, String toolId)
+   在 Microsoft.TeamFoundation.Framework.Client.PreFrameworkServerDataProvider.LocationForCurrentConnection(String serviceType, Guid serviceIdentifier)
+   在 Microsoft.TeamFoundation.Client.TfsConnection.EnsureProviderConnected()
+   在 Microsoft.TeamFoundation.Client.TfsConnection.<EnsureAuthenticated>b__0()
+   在 Microsoft.TeamFoundation.Client.TfsConnection.UseCredentialsProviderOnFailure(Action action)
+Entering constructor for: GitScc.BasicSccProvider
+Entering Initialize() of: GitScc.BasicSccProvider
+Git Source Control Provider set active
+Entering Dispose() of: GitScc.BasicSccProvider
+Loading page 1
+Query Created: ((Project.Metadata['SupportedVSEditions'] LIKE '%10.0,IntegratedShell;%') OR (Project.Metadata['SupportedVSEditions'] LIKE '%10.0,Pro;%') OR (Project.Metadata['SupportedVSEditions'] LIKE '%10.0,Premium;%') OR (Project.Metadata['SupportedVSEditions'] LIKE '%10.0,Ultimate;%'))
+Cancelling pending extensions query
+Loading page 1
+Query Created: ((Project.Metadata['SupportedVSEditions'] LIKE '%10.0,IntegratedShell;%') OR (Project.Metadata['SupportedVSEditions'] LIKE '%10.0,Pro;%') OR (Project.Metadata['SupportedVSEditions'] LIKE '%10.0,Premium;%') OR (Project.Metadata['SupportedVSEditions'] LIKE '%10.0,Ultimate;%'))
+New Total Pages: 1
+Entering Dispose() of: GitScc.BasicSccProvider

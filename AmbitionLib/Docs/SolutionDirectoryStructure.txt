@@ -1,0 +1,19 @@
+
+= Directory Structure =
+As-Is (What we already got~)
+------------------------------------------------------------------------
+/Test   Include Unit Tests or Samples/包括各种单元测试或者示例代码
+	Authentication	Login Information/登录信息，身份验证
+	Authorization	Roles and corresponding permission/权限验证
+	Collection		Custom collection and helpers/自定义集合类型及辅助类
+	CommonAlgorithm Commonly used algorithms/常用算法(排序、查找、数学、逻辑运算、加密/解密)
+	Database		Connect to db, database operation helpers, linq helpers/提供连接、操作数据库的接口以及使用linq的扩展方法
+	IO				read/write files,log logs,generate docs(config helper,assembly helper,globalization message?)
+	Office			supply interfaces to operate office objects.
+	Script			functions to append js/jquery.
+	Web				cookie,session and other often used in web apps.
+	
+To-Be  (What should be changed in next version~)
+------------------------------------------------------------------------
+	1. XML/JSON helper
+	2. Assembly/Config/Globalization should not be included in IO, we need more clear named projects to include them in.
