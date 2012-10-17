@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="f0b8620f-487d-4b0f-b7f6-77fe635b8112" name="Administrator@NB-WH0612019 2012-10-17 20:38:33" runUser="NB-WH0612019\Administrator" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="0b2e332d-ffba-4e97-8dbd-8d1d2b191089">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Administrator_NB-WH0612019 2012-10-17 20_38_33">
+      <DeploymentItem filename="D:\GIT\Output\Database\bin\Release\AmbitonLib.Database.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-10-17T20:38:33.4743128+08:00" queuing="2012-10-17T20:38:37.3275332+08:00" start="2012-10-17T20:38:37.6265503+08:00" finish="2012-10-17T20:39:07.6432672+08:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="SelectUIControlByLinqConstructorTest" storage="d:\git\output\databasetest\bin\release\ambitonlib.test.databasetest.dll" id="b2287ff5-0c6d-85ef-02e2-3955f88344fc">
+      <Execution id="117cb365-2973-4942-9d14-f765366c993d" />
+      <TestMethod codeBase="D:/GIT/Output/DatabaseTest/bin/Release/AmbitonLib.Test.DatabaseTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="AmbitonLib.Test.DatabaseTest.SelectUIControlByLinqTest, AmbitonLib.Test.DatabaseTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SelectUIControlByLinqConstructorTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="b2287ff5-0c6d-85ef-02e2-3955f88344fc" executionId="117cb365-2973-4942-9d14-f765366c993d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="117cb365-2973-4942-9d14-f765366c993d" testId="b2287ff5-0c6d-85ef-02e2-3955f88344fc" testName="SelectUIControlByLinqConstructorTest" computerName="NB-WH0612019" duration="00:00:22.9524741" startTime="2012-10-17T20:38:37.7785590+08:00" endTime="2012-10-17T20:39:07.3972531+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="117cb365-2973-4942-9d14-f765366c993d">
+    </UnitTestResult>
+  </Results>
+</TestRun>

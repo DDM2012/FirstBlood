@@ -30,3 +30,12 @@ Loading page 1
 Query Created: ((Project.Metadata['SupportedVSEditions'] LIKE '%10.0,IntegratedShell;%') OR (Project.Metadata['SupportedVSEditions'] LIKE '%10.0,Pro;%') OR (Project.Metadata['SupportedVSEditions'] LIKE '%10.0,Premium;%') OR (Project.Metadata['SupportedVSEditions'] LIKE '%10.0,Ultimate;%'))
 New Total Pages: 1
 Entering Dispose() of: GitScc.BasicSccProvider
+Entering constructor for: GitScc.BasicSccProvider
+Entering Initialize() of: GitScc.BasicSccProvider
+Git Source Control Provider set active
+In OnActivate
+In OnDeactivate
+In OnApply
+In OnClosed
+Git Source Control Provider set inactive
+Entering Dispose() of: GitScc.BasicSccProvider
