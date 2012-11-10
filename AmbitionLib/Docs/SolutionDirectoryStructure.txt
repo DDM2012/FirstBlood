@@ -12,8 +12,9 @@ As-Is (What we already got~)
 	Office			supply interfaces to operate office objects.
 	Script			functions to append js/jquery.
 	Web				cookie,session and other often used in web apps.
+	XML				XML r/w helper, XML to json helper
 	
 To-Be  (What should be changed in next version~)
 ------------------------------------------------------------------------
-	1. XML/JSON helper
+	1. JSON helper
 	2. Assembly/Config/Globalization should not be included in IO, we need more clear named projects to include them in.

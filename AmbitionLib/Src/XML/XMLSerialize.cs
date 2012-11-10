@@ -1,0 +1,7 @@
+﻿
+namespace XML
+{
+    class XMLSerialize
+    {
+    }
+}

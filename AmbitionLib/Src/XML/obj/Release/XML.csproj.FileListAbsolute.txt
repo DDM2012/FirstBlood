@@ -1,0 +1,5 @@
+D:\Projects\SrcOnGitHub\FirstBlood\AmbitionLib\Src\XML\bin\Release\XML.dll
+D:\Projects\SrcOnGitHub\FirstBlood\AmbitionLib\Src\XML\bin\Release\XML.pdb
+D:\Projects\SrcOnGitHub\FirstBlood\AmbitionLib\Src\XML\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\SrcOnGitHub\FirstBlood\AmbitionLib\Src\XML\obj\Release\XML.dll
+D:\Projects\SrcOnGitHub\FirstBlood\AmbitionLib\Src\XML\obj\Release\XML.pdb

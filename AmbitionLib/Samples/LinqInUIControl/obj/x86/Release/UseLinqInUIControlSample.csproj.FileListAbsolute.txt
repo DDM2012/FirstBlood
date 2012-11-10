@@ -1,0 +1,11 @@
+D:\Projects\SrcOnGitHub\FirstBlood\AmbitionLib\Samples\LinqInUIControl\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Projects\SrcOnGitHub\FirstBlood\AmbitionLib\Samples\LinqInUIControl\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Projects\SrcOnGitHub\FirstBlood\AmbitionLib\Samples\LinqInUIControl\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Projects\SrcOnGitHub\FirstBlood\AmbitionLib\Samples\LinqInUIControl\obj\x86\Release\UseLinqInUIControlSample.Properties.Resources.resources
+D:\Projects\SrcOnGitHub\FirstBlood\AmbitionLib\Samples\LinqInUIControl\obj\x86\Release\UseLinqInUIControlSample.FrmUseLinqInUIControlSample.resources
+D:\Projects\SrcOnGitHub\FirstBlood\AmbitionLib\Samples\LinqInUIControl\bin\Release\UseLinqInUIControlSample.exe
+D:\Projects\SrcOnGitHub\FirstBlood\AmbitionLib\Samples\LinqInUIControl\bin\Release\UseLinqInUIControlSample.pdb
+D:\Projects\SrcOnGitHub\FirstBlood\AmbitionLib\Samples\LinqInUIControl\bin\Release\AmbitonLib.Database.dll
+D:\Projects\SrcOnGitHub\FirstBlood\AmbitionLib\Samples\LinqInUIControl\bin\Release\AmbitonLib.Database.pdb
+D:\Projects\SrcOnGitHub\FirstBlood\AmbitionLib\Samples\LinqInUIControl\obj\x86\Release\UseLinqInUIControlSample.exe
+D:\Projects\SrcOnGitHub\FirstBlood\AmbitionLib\Samples\LinqInUIControl\obj\x86\Release\UseLinqInUIControlSample.pdb
