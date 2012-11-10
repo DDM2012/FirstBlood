@@ -1,0 +1,8 @@
+D:\Projects\SrcOnGitHub\FirstBlood\AmbitionLib\AllInOneTips\AllInOneTipsSample\MvcSample.Tests\bin\Debug\MvcSample.Tests.dll.config
+D:\Projects\SrcOnGitHub\FirstBlood\AmbitionLib\AllInOneTips\AllInOneTipsSample\MvcSample.Tests\bin\Debug\MvcSample.Tests.dll
+D:\Projects\SrcOnGitHub\FirstBlood\AmbitionLib\AllInOneTips\AllInOneTipsSample\MvcSample.Tests\bin\Debug\MvcSample.Tests.pdb
+D:\Projects\SrcOnGitHub\FirstBlood\AmbitionLib\AllInOneTips\AllInOneTipsSample\MvcSample.Tests\bin\Debug\MvcSample.dll
+D:\Projects\SrcOnGitHub\FirstBlood\AmbitionLib\AllInOneTips\AllInOneTipsSample\MvcSample.Tests\bin\Debug\MvcSample.pdb
+D:\Projects\SrcOnGitHub\FirstBlood\AmbitionLib\AllInOneTips\AllInOneTipsSample\MvcSample.Tests\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\SrcOnGitHub\FirstBlood\AmbitionLib\AllInOneTips\AllInOneTipsSample\MvcSample.Tests\obj\Debug\MvcSample.Tests.dll
+D:\Projects\SrcOnGitHub\FirstBlood\AmbitionLib\AllInOneTips\AllInOneTipsSample\MvcSample.Tests\obj\Debug\MvcSample.Tests.pdb

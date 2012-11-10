@@ -1,0 +1,7 @@
+D:\Projects\SrcOnGitHub\FirstBlood\AmbitionLib\AllInOneTips\AllInOneTipsSample\MvcSample\bin\MvcSample.dll
+D:\Projects\SrcOnGitHub\FirstBlood\AmbitionLib\AllInOneTips\AllInOneTipsSample\MvcSample\bin\MvcSample.pdb
+D:\Projects\SrcOnGitHub\FirstBlood\AmbitionLib\AllInOneTips\AllInOneTipsSample\MvcSample\bin\EntityFramework.dll
+D:\Projects\SrcOnGitHub\FirstBlood\AmbitionLib\AllInOneTips\AllInOneTipsSample\MvcSample\bin\EntityFramework.xml
+D:\Projects\SrcOnGitHub\FirstBlood\AmbitionLib\AllInOneTips\AllInOneTipsSample\MvcSample\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\SrcOnGitHub\FirstBlood\AmbitionLib\AllInOneTips\AllInOneTipsSample\MvcSample\obj\Debug\MvcSample.dll
+D:\Projects\SrcOnGitHub\FirstBlood\AmbitionLib\AllInOneTips\AllInOneTipsSample\MvcSample\obj\Debug\MvcSample.pdb
